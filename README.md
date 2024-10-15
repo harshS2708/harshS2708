@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @harshS2708
 - 👀 I’m interested in competitive coding
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently exploring machine learning, cloud computing 
 
 <!---
 harshS2708/harshS2708 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
